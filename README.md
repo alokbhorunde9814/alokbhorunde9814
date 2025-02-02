@@ -1,63 +1,67 @@
-<!-- Hey there, curious coder! Thanks for stopping by. 🌟 -->
-<h1 align="center">Hi there, I'm Alok! 👋</h1>
+<!-- Welcome to my GitHub Profile! -->
+<h1 align="center">🤖 Hey, I'm Alok!. 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <b>Welcome to my GitHub profile!</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=UI/UX+Desinger;Data+Science+Enthusiast;Tech+Explorer!;Turning+Ideas+into+Reality!;Building+Innovative+Solutions!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 **About Me**
-- 🎓 IT Engineering Student | Developer | Designer  
-- 🛠️ Building cool stuff with **MERN Stack & Data Science**  
-- 🎨 Passionate about **UI/UX & Web Development**  
-- 🔍 Exploring **AI, Decentralized Tech & Product Design**  
-- 📽️ Currently creating **Faceless Tech Videos** for [Techx Mind](https://www.youtube.com)  
-- ⚡ Fun fact: I can code and cycle at the same time... (just kidding 😆)  
+<table>
+<tr>
+<td>
+💡 Passionate about web development, design, and technology. I thrive on building creative web solutions and exploring new tech trends.
+
+🎯 **Currently working on:**
+
+**Innovative Web Apps** 💡 – Pushing the boundaries of user experience                       
+**UI/UX Design** 🌟 – Crafting seamless, user-friendly interfaces                     
+**Data Science & Data Analytics** 📊 – Uncovering insights and driving data-driven decisions
+
+📚 Always learning new skills, from web development to design concepts.
+
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack & Tools**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,python,git,figma,c,cpp,r,mysql," />
 </p>
 
 ---
 
-## 📌 **What I'm Working On**
-- ⚒️ **KD Studio** - A creative space for UI/UX & web dev  
-- 🏆 **Ranangan** - College sports event website  
-- 🔧 **InstaFix** - Home repair marketplace  
-- 💡 Always looking for **new & innovative projects!**  
+## 📊 **GitHub Stats & Contributions**
 
----
-
-## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alok&show_icons=true&theme=radical" alt="GitHub Stats" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alokbhorunde9814&show_icons=true&theme=tokyonight" width="450px"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alok&theme=radical" width="450px"/>
+
 </p>
 
 ---
 
-## 💬 **Let's Connect!**
+## 🌎 **Let's Connect!**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alok" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/alok" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/alok" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
+
 ---
 
-### ✨ **"Code, Create, Inspire!"**
----
-
-<!-- Thanks for checking out my profile! Keep coding 🚀 -->
+🚀 **Imagine. Plan. Execute. Repeat.**  
+💡 **Building the Future, One Line of Code at a Time.**
