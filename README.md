@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td>
-💡 Passionate about web development, design, and technology. I thrive on building creative web solutions and exploring new tech trends.
+💡 **Passionate about web development, design, and technology. I thrive on building creative web solutions and exploring new tech trends.**                   
 
 🎯 **Currently working on:**
 
