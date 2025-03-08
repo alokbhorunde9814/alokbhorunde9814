@@ -39,6 +39,8 @@
 ## 📊 GitHub Stats & Contributions
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokbhorunde9814&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="450px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbhorunde9814&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" width="400px"/>
 </p>
 
 ---
