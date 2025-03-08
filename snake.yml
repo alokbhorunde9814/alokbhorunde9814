@@ -5,17 +5,24 @@ on:
     - cron: "0 0 * * *"  # Runs every day at midnight UTC
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Contribution Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: alokbhorunde9814
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
+
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
