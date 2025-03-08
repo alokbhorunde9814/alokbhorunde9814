@@ -53,15 +53,6 @@
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake Game
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokbhorunde9814/alokbhorunde9814/main/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/alokbhorunde9814/alokbhorunde9814/main/github-snake.svg">
-  </picture>
-</p>
 
 
 
