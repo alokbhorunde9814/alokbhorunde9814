@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/alok" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/alok" target="_blank">
+  <a href="https://github.com/alokbhorunde9814" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
